@@ -1,6 +1,6 @@
-elements.hello_world = {
-	color: "#ff0000",
-	behavior: behaviors.WALL,
-	category: "land",
+elements.chromadust = {
+	color: "#7ff0d5",
+	behavior: behaviors.powder,
+	category: "powders",
 	state: "solid",
 }
